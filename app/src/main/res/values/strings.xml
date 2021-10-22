@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PZ25_GatunovAP_PR20106</string>
+    <string name="btnDiv">/</string>
+    <string name="btnMult">*</string>
+    <string name="btnSub">-</string>
+    <string name="btnAdd">+</string>
+    <string name="tvResult">Result</string>
+</resources>
